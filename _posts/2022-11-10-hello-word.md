@@ -7,7 +7,7 @@ tags: [blog]     # TAG names should always be lowercase
 
 Olá! Seja bem vindo ao meu blog/repositório pessoal. Em primeiro lugar, eu gostaria de começar este primeiro post da mesma forma que comecei minha jornada como programador, com um Hello World!
 
-![hello](\assets\img\posts\hello-world\hello.png)
+![hello](/assets/img/posts/hello-world/hello.png)
 
 Prazer, eu me chamo **Victor Roberto**, sou formado em Sistemas de Informação e pós graduado em Ciência de Dados e Big Data. Nasci em 1996 na cidade de Belo Horizonte, onde moro até hoje. Desde pequeno sempre tive muito interesse por computadores e quando me formei não tive dúvidas que seria a profissão que iria seguir. Em 2018 comecei minha carreira trabalhando como Analista de Suporte ServiceDesk, onde conheci e utilizei a ferramenta **ServiceNow**, ferramenta essa que eu tive a oportunidade de começar a utilizar como desenvolvedor em 2019 e que até hoje sigo me especializando e me desenvolvendo como programador.
 
@@ -17,4 +17,4 @@ Eu sempre tive vontade de escrever e postar coisas relacionadas a desenvolviment
 
 Sempre que eu tiver algo legal para compartilhar por aqui estarei postando, então nos vemos por aí!
 
-![ate-mais.gif](\assets\img\posts\hello-world\ate-mais.gif)
+![ate-mais.gif](/assets/img/posts/hello-world/ate-mais.gif)
